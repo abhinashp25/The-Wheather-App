@@ -1,4 +1,4 @@
 # The-Wheather-App
-This is a very simple weather app which shows the temperature , humidity , wind speed &amp; city name 
+This is a very simple weather app
 <br>
 my first project
